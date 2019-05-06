@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mitburr/reactPort2/static/css/main.f245f2bd.chunk.css",
+    "main.js": "/mitburr/reactPort2/static/js/main.5dedca2f.chunk.js",
+    "main.js.map": "/mitburr/reactPort2/static/js/main.5dedca2f.chunk.js.map",
+    "runtime~main.js": "/mitburr/reactPort2/static/js/runtime~main.390ba73b.js",
+    "runtime~main.js.map": "/mitburr/reactPort2/static/js/runtime~main.390ba73b.js.map",
+    "static/js/2.94093ec2.chunk.js": "/mitburr/reactPort2/static/js/2.94093ec2.chunk.js",
+    "static/js/2.94093ec2.chunk.js.map": "/mitburr/reactPort2/static/js/2.94093ec2.chunk.js.map",
+    "index.html": "/mitburr/reactPort2/index.html",
+    "precache-manifest.d3d7e26cca66dcd04079effb9b2b3c59.js": "/mitburr/reactPort2/precache-manifest.d3d7e26cca66dcd04079effb9b2b3c59.js",
+    "service-worker.js": "/mitburr/reactPort2/service-worker.js",
+    "static/css/main.f245f2bd.chunk.css.map": "/mitburr/reactPort2/static/css/main.f245f2bd.chunk.css.map",
+    "static/media/Home.css": "/mitburr/reactPort2/static/media/1530106563933.63cb4760.jpg",
+    "static/media/MJB_Resume_v4.1.pdf": "/mitburr/reactPort2/static/media/MJB_Resume_v4.1.5f0b2989.pdf",
+    "static/media/Project.css": "/mitburr/reactPort2/static/media/atticWoodTheme.bd7a1a45.jpg"
+  }
+}
